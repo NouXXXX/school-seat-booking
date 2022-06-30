@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/school-seat-booking/static/css/main.dbd0711f.css",
+    "main.js": "/school-seat-booking/static/js/main.34c3bbc3.js",
+    "index.html": "/school-seat-booking/index.html",
+    "main.dbd0711f.css.map": "/school-seat-booking/static/css/main.dbd0711f.css.map",
+    "main.34c3bbc3.js.map": "/school-seat-booking/static/js/main.34c3bbc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd0711f.css",
+    "static/js/main.34c3bbc3.js"
+  ]
+}
