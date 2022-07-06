@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/school-seat-booking/static/css/main.dbd0711f.css",
-    "main.js": "/school-seat-booking/static/js/main.34c3bbc3.js",
+    "main.css": "/school-seat-booking/static/css/main.e725393f.css",
+    "main.js": "/school-seat-booking/static/js/main.0832ed35.js",
     "index.html": "/school-seat-booking/index.html",
-    "main.dbd0711f.css.map": "/school-seat-booking/static/css/main.dbd0711f.css.map",
-    "main.34c3bbc3.js.map": "/school-seat-booking/static/js/main.34c3bbc3.js.map"
+    "main.e725393f.css.map": "/school-seat-booking/static/css/main.e725393f.css.map",
+    "main.0832ed35.js.map": "/school-seat-booking/static/js/main.0832ed35.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbd0711f.css",
-    "static/js/main.34c3bbc3.js"
+    "static/css/main.e725393f.css",
+    "static/js/main.0832ed35.js"
   ]
 }
