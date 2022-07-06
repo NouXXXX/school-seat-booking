@@ -1,7 +1,7 @@
 import React from "react"
 import Seat from './Seat'
 
-const SeatAvailability = () => {
+export default function SeatAvailability() {
 	return (
 		<div className="row">
 			남은 좌석 : <Seat seatColor="seat-grey" />
@@ -9,5 +9,3 @@ const SeatAvailability = () => {
 		</div>
 	)
 }
-
-export default SeatAvailability

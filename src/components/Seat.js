@@ -3,7 +3,7 @@ import BookContext from "../contexts/BookContext"
 
 import './styles/Seat.css'
 
-const Seat = (props) => {
+export default function Seat(props) {
     const { seats } = useContext(BookContext)
     const context = useContext(BookContext)
 
@@ -34,5 +34,3 @@ const Seat = (props) => {
         </div>
     )
 }
-
-export default Seat

@@ -14,7 +14,7 @@ const GenerateSeats = (seatNumbers) => {
 	)
 }
 
-const SeatMatrix = () => {
+export default function SeatMatrix(){
 	return (
 		<div className="class">
 			<p>(칠판)</p>
@@ -27,5 +27,3 @@ const SeatMatrix = () => {
 		</div>
 	)
 }
-
-export default SeatMatrix

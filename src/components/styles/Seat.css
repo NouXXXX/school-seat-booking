@@ -1,25 +1,16 @@
 .seat-layout{
     flex-wrap: nowrap;
 }
-.col-md-2{
-    padding: 0px 10px;
-}
-.col-md-6{
-    padding: 0px 25px;
-}
+
 .seat{
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
     border-radius: 50% 50% 0px 0px;
-    margin: 3px;
+    margin: 5px;
     cursor: pointer;
-}
-.seat:hover{
-    transform: scale(1.1);
 }
 .row{
     justify-content: center;
-    align-items: flex-start;
 }
 .seat-grey{
     background-color: #ddd;
@@ -27,7 +18,7 @@
 .seat-black{
     background-color: black;
 }
-.seat-undefined{
+.seat-undefined{ /* 남은 좌석, 예약된 좌석 클릭 안되게 설정 */
     cursor: auto;
     pointer-events: none;
 }

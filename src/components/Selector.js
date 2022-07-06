@@ -2,7 +2,7 @@ import React, { useContext } from "react"
 import BookContext from "../contexts/BookContext"
 import "./styles/Seat.css"
 
-const Header = () => {
+export default function Selector() {
 
 	const { seats } = useContext(BookContext)
 	const seatData = useContext(BookContext)
@@ -28,4 +28,3 @@ const Header = () => {
 	)
 }
 
-export default Header
